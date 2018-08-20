@@ -19,7 +19,7 @@
 1. 负责后端service开发
 2. 参与制定技术标准，编写相应的技术文档，并对通用技术进行整理，提高技术复用
 3. 对相关产品系统架构方案进行评审及改进，控制产品系统架构质量
-4. 具体技术栈请读我们的基础组件之一的代码 [consulinterop](./https://github.com/FollowmeTech/fm.consulinterop "clickme")
+4. 具体技术栈请读我们的基础组件之一的代码 [consulinterop](https://github.com/FollowmeTech/fm.consulinterop "clickme")
 
 
 #### 我们希望的你是一个对技术有追求的小伙伴, 不仅仅是知其然,更重要的是知其所以然, 欢迎加入我们和我们一起成长;
